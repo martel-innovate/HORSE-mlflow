@@ -11,6 +11,6 @@ Repository for HORSE project.
   pip install -r requirements.txt
 
   # using Conda
-  conda create --name <env_name> --file requirements.txt ```
+  conda create --name <env_name> --file requirements.txt
 - Run the notebook mlflow-5GNIDD.ipynb
 - The notebook will train several machine learning models and evaluates them to find the best ones.
